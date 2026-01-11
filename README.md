@@ -1,5 +1,3 @@
-# cpp-input-monitor
-A lightweight system monitoring tool exploring Windows API and bit manipulation for security analysis.
 # C++ System Monitor & Input Analysis Tool
 
 **Status:** 🚧 In Development
